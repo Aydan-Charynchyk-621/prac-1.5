@@ -24,6 +24,7 @@ var nums = File ("C:/Users/Aydan/Desktop/numsTask2.txt.txt");
   nums.writeAsStringSync(nums.toString());
 }
 /*
+//Задание 3
 /*
 var nums = File("C:/Users/Aydan/Desktop/numsTask3.txt");
 
